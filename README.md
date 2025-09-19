@@ -22,7 +22,6 @@
 - **CRM & Billing**: Salesforce, Zuora  
 - **Programming**: Apex, Java, Dart, Liquid  
 - **Data & Queries**: SQL, PrestoDB, DataGrip  
-- **AI & CV**: MediaPipe  
 - **Dev Tools**: Git, GitHub, Postman, VS Code  
 - **Methodologies**: Agile/Scrum, Technical Documentation, REST API Design, TDD
 
@@ -33,7 +32,6 @@
 - ✅ Backend or full-stack roles
 - ✅ Product-based companies and tech-driven teams  
 - ✅ Mentorship, clean code culture, and real-world impact  
-- ❌ Not looking for low-code or CRM-only roles
 
 ---
 
